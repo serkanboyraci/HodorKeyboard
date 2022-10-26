@@ -20,7 +20,7 @@ class KeyboardViewController: UIInputViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        // HODOR
+        // as adeareaereaded HODOR
         
         let hodorButton = UIButton(type: .system)
         hodorButton.frame = CGRect(x: 100, y: 50, width: 200, height: 100)
